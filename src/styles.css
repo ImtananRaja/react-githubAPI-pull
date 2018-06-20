@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.info {
+  display: inline-block;
+  margin-left: 10;
+}
+
+.image {
+  height: 50%;
+  width: 50%;
+}
